@@ -34384,7 +34384,7 @@ s=1
 break
 case 1:return A.X(q,r)}})
 return A.Y($async$rf,r)},
-K(a,b){var s=this,r=null,q=s.Kt("Canario Swap",A.aH(r,r,r,r,r,r,r,r,r,r,r,r,r,B.u,r,r,!0,r,r,r,r,r,r,r,r)),p=A.ao(r,r,r,r,new A.b0(r,r,r,r,r,new A.cM(B.ad,B.ae,B.T,A.a([B.cc,B.ak,B.ak,B.p,B.p,B.t,B.k],t.W),r,r),B.v),r,r,r,r),o=A.a([s.u1("Swap",new A.md(r)),A.cE(r,r,5),s.u1("Pool",new A.uX(r)),A.cE(r,r,5),s.u1("Vote",new A.wC(r)),A.cE(r,r,100),s.a_g(),A.cE(r,r,20)],t.p)
+K(a,b){var s=this,r=null,q=s.Kt("GoDeFi",A.aH(r,r,r,r,r,r,r,r,r,r,r,r,r,B.u,r,r,!0,r,r,r,r,r,r,r,r)),p=A.ao(r,r,r,r,new A.b0(r,r,r,r,r,new A.cM(B.ad,B.ae,B.T,A.a([B.cc,B.ak,B.ak,B.p,B.p,B.t,B.k],t.W),r,r),B.v),r,r,r,r),o=A.a([s.u1("Swap",new A.md(r)),A.cE(r,r,5),s.u1("Pool",new A.uX(r)),A.cE(r,r,5),s.u1("Vote",new A.wC(r)),A.cE(r,r,100),s.a_g(),A.cE(r,r,20)],t.p)
 return new A.ra(!1,q,o,p,B.j,new A.K8(r,r,1/0,56),r)},
 u1(a,b){var s=null,r=this.c.P(t.w).f.a.a,q=A.bg(10),p=A.a([B.I,B.b3,B.I],t.W),o=A.bg(10)
 return A.ao(s,A.lV(A.jM(A.ao(B.U,A.bv(a,s,s,s,A.aH(s,s,B.k,s,s,s,s,s,s,s,s,18,s,B.u,s,s,!0,s,s,s,s,s,s,s,s),B.aT,s),s,new A.aq(0,r*0.4,20,1/0),s,s,s,s,s),new A.b0(s,s,s,o,s,new A.cM(B.ad,B.ae,B.T,p,s,s),B.v)),new A.a0I(this,b),new A.ai(0,0,0,0),new A.bV(q,B.o)),s,s,s,40,new A.ai(0,5,0,5),s,r*0.1)},
